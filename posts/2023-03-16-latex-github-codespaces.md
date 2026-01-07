@@ -35,6 +35,7 @@ On the repository where you store the Latex project, click on the `Code` button 
 In the terminal, install the Latex environment:
 
 ```
+sudo apt update
 sudo apt install texlive texlive-science texlive-latex-extra latexmk
 ```
 
